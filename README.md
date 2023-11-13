@@ -1,0 +1,2 @@
+# OharaSNShop
+OSNSリポジトリ
